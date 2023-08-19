@@ -4,8 +4,9 @@ A simple script for whether to enable the keyboard
 ## Polybar enable-keyboard 
 A simple polybar-enableKeyboard module that adds an icon that changes dinamically accordingly to thte keyboard status
 
-![on](https://github.com/apple115/polybar-enableKeyboard/tree/main/screenshots/DeepinScreenshot_select-area_20230818195118.png)
-![off](https://github.com/apple115/polybar-enableKeyboard/blob/main/screenshots/DeepinScreenshot_select-area_20230818200820.png)
+![on](https://github.com/apple115/polybar-enableKeyboard/blob/main/screenshots/DeepinScreenshot_select-area_20230818195118.png) When the keyboard is on
+
+![off](https://github.com/apple115/polybar-enableKeyboard/blob/main/screenshots/DeepinScreenshot_select-area_20230818200820.png) When the keyboard is off
 
 
 ## Dependencies
