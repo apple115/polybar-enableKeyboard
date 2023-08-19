@@ -46,12 +46,11 @@ in keyboard.sh
  fi
 ```
 
-`Asus Keyboard` has my computer keyboard
+`Asus Keyboard` is my computer keyboard
 
 If you want to know your computer keyboard, you can do:
-'> xinput'
-This is my output:
 ```
+> xinput
 ⎡ Virtual core pointer                    	id=2	[master pointer  (3)]
 ⎜   ↳ Virtual core XTEST pointer              	id=4	[slave  pointer  (2)]
 ⎜   ↳ ASUE120A:00 04F3:319B Mouse             	id=11	[slave  pointer  (2)]
@@ -70,6 +69,7 @@ This is my output:
     ↳ Logitech G304   
 ```
 we can find `Asus Keyboard` in `Virtual core keyboard` 
+
 we replaced `Asus Keyboard` for `your Device`
 
 
